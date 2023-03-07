@@ -1,7 +1,7 @@
-// Copyright (c) 2022 Ms Raffin All rights reserved
+// Copyright (c) 2023 Lily C All rights reserved
 //
-// Created by: Ms Raffin
-// Created on: Mar 2022
+// Created by: Lily C
+// Created on: March 7 2023
 // This file contains the JS functions for index.html
 
 function myButtonClicked () {
